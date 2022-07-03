@@ -5,37 +5,37 @@
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20220628.073736</timestamp>
+      <timestamp>20220703.003204</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20220628073736</lastUpdated>
+    <lastUpdated>20220703003204</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.0-20220628.073736-1</value>
-        <updated>20220628073736</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
-        <value>1.0-20220628.073736-1</value>
-        <updated>20220628073736</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.0-20220628.073736-1</value>
-        <updated>20220628073736</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20220628.073736-1</value>
-        <updated>20220628073736</updated>
+        <value>1.0-20220703.003204-1</value>
+        <updated>20220703003204</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.0-20220703.003204-1</value>
+        <updated>20220703003204</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0-20220628.073736-1</value>
-        <updated>20220628073736</updated>
+        <value>1.0-20220703.003204-1</value>
+        <updated>20220703003204</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0-20220703.003204-1</value>
+        <updated>20220703003204</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20220703.003204-1</value>
+        <updated>20220703003204</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
