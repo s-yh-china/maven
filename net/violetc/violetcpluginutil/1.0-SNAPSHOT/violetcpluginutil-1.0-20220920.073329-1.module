@@ -27,11 +27,11 @@
         {
           "name": "violetcpluginutil-1.0-SNAPSHOT.jar",
           "url": "violetcpluginutil-1.0-SNAPSHOT.jar",
-          "size": 30245,
-          "sha512": "137ba5decf4efe2c1d1131fe916fb343ac1cfe2c2ff5bbc207e35c92da94d981c30f74cd4d9162b835c231695bcaaefd349312fe4008f4a80b2c5a74adfeda84",
-          "sha256": "21999b9d0b7b275cf8c151a81b9f6469a2136aa759cb6c4fba64e2e757077f5d",
-          "sha1": "147392dba73162b43ab8a05a53d66aa7875fa902",
-          "md5": "99cc132cfc45adab3fae403a40f67f1a"
+          "size": 30680,
+          "sha512": "11d043d67079133282f27cbbe30a757665a26614b3064892c78e8bb626c0ff869d1a4ad32d9e7155003f68feba9b79943790353137c7735d9e4d4e0de6264757",
+          "sha256": "8baa1b279d9223cf1a97d3cd998eb1618839bd1065b7f96899d7abc1c6a46825",
+          "sha1": "75a43a7949a800c6f75896afeb7d501f20917fde",
+          "md5": "04fc557dab585f7d4d2a9dad2e569b09"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "violetcpluginutil-1.0-SNAPSHOT.jar",
           "url": "violetcpluginutil-1.0-SNAPSHOT.jar",
-          "size": 30245,
-          "sha512": "137ba5decf4efe2c1d1131fe916fb343ac1cfe2c2ff5bbc207e35c92da94d981c30f74cd4d9162b835c231695bcaaefd349312fe4008f4a80b2c5a74adfeda84",
-          "sha256": "21999b9d0b7b275cf8c151a81b9f6469a2136aa759cb6c4fba64e2e757077f5d",
-          "sha1": "147392dba73162b43ab8a05a53d66aa7875fa902",
-          "md5": "99cc132cfc45adab3fae403a40f67f1a"
+          "size": 30680,
+          "sha512": "11d043d67079133282f27cbbe30a757665a26614b3064892c78e8bb626c0ff869d1a4ad32d9e7155003f68feba9b79943790353137c7735d9e4d4e0de6264757",
+          "sha256": "8baa1b279d9223cf1a97d3cd998eb1618839bd1065b7f96899d7abc1c6a46825",
+          "sha1": "75a43a7949a800c6f75896afeb7d501f20917fde",
+          "md5": "04fc557dab585f7d4d2a9dad2e569b09"
         }
       ]
     }
