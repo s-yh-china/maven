@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.violetc",
+    "module": "violetcpluginutil",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "violetcpluginutil-1.0-SNAPSHOT.jar",
+          "url": "violetcpluginutil-1.0-SNAPSHOT.jar",
+          "size": 33602,
+          "sha512": "851c30ddcd07e5ff011ab7ae88f4ae18771d7f0fc874a6b133f325b6538c52142fc1adb160540ae4dad76be7e8d96367f224dbf94ba91f01dbb10957d60407fb",
+          "sha256": "1a930598eb2099f107edf583812b7886a709f1149b69a65063f87d04894ec924",
+          "sha1": "1c5911b13d85403c263013d3cde5b852398a75b0",
+          "md5": "350417b6fc7788edf6ace37247e7ef15"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "violetcpluginutil-1.0-SNAPSHOT.jar",
+          "url": "violetcpluginutil-1.0-SNAPSHOT.jar",
+          "size": 33602,
+          "sha512": "851c30ddcd07e5ff011ab7ae88f4ae18771d7f0fc874a6b133f325b6538c52142fc1adb160540ae4dad76be7e8d96367f224dbf94ba91f01dbb10957d60407fb",
+          "sha256": "1a930598eb2099f107edf583812b7886a709f1149b69a65063f87d04894ec924",
+          "sha1": "1c5911b13d85403c263013d3cde5b852398a75b0",
+          "md5": "350417b6fc7788edf6ace37247e7ef15"
+        }
+      ]
+    }
+  ]
+}
